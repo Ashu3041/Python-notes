@@ -1,4 +1,4 @@
 # Python-notes
-Author:- Ashutosh 
+Author:- Ashutosh Mohanty
 <br>
 GATE
